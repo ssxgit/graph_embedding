@@ -7,16 +7,16 @@
 <paper_id1> <paper_id2>  
 文献之间的引用关系 后一个引用前一个 "paper2->paper1"
 
-##cora.centent
+## cora.centent
 <paper_id><出现的词为0，不出现为1><文献类别>  
 一共七个类别  
-Case_Based  
+(Case_Based  
 Genetic_Algorithms  
 Neural_Networks  
 Probabilistic_Methods  
 Reinforcement_Learning  
 Rule_Learning  
-Theory  
+Theory)  
   
 注：向量表示之后可以分个类，看与ground_truth的差异  
 只要我们的方法比以往好就行  
