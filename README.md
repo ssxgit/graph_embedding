@@ -24,11 +24,11 @@ Theory)
 # deepwalk
 ```
 python run_deepwalk.py
-随机游走获得词向量方法
+随机游走获得结点向量方法
 ```
 # TADW
 ```
 python run_tadw.py
-加入每个结点文本特征的词向量方法
+加入每个结点文本特征的结点向量方法
 ```
 
